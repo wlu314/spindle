@@ -1,0 +1,15 @@
+
+
+@import "../public/assets/css/bootstrap.min.css";
+@import "../public/assets/css/default.css";
+@import "../public/assets/css/responsive.css";  
+@import "../public/assets/css/meanmenu.css";
+@import "../public/assets/css/animate.min.css";
+
+@import "../public/assets/css/fontawesome.min.css";
+@import "slick-carousel/slick/slick.css";
+@import "~bootstrap/dist/css/bootstrap";
+@import "node_modules/react-modal-video/css/modal-video.css";  
+
+
+@import "../public/assets/css/main.css";
