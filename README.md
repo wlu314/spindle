@@ -177,8 +177,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Contact us at team@spindle.com
 
-Project Link: [https://github.com/mnshah0101/spindle](https://github.com/mnshah0101/spindle)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
