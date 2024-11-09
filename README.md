@@ -25,7 +25,7 @@
     <!-- <a href="https://github.com/mnshah0101/spindle"><strong>Explore the docs »</strong></a>
     <br />
     <br /> -->
-    <a href="www.spindleapi.com">View Demo</a>
+    <a href="https://www.spindleapi.com/">View Demo</a>
     ·
    
   </p>
