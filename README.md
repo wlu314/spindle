@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/mnshah0101/spindle">
+  <a href="www.spindleapi.com">
     <img src="/spindle/public/assets/logos/LogosAndWords2.png" alt="Logo" width="200" height="200">
   </a>
 
